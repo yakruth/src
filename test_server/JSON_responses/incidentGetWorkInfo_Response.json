@@ -1,0 +1,44 @@
+{
+  "ns0:HelpDesk_GetWorkInfoListResponse": {
+    "-xmlns:ns0": "urn:HPD_IncidentInterface_WS",
+    "ns0:ListWOQuery": {
+      "ns0:getListValues": [
+        {
+          "ns0:WorkInfoInstanceID": "AGHAA5V0H3LN7ANNW259JMUNHE57JX",
+          "ns0:WorkInfoStatus": "Enabled",
+          "ns0:WorkInfoType": "General Information",
+          "ns0:WorkInfoSummary": "QA Test",
+          "ns0:WorkInfoNotes": "QA Test",
+          "ns0:ParentID": "INC000008005267",
+          "ns0:WorkInfoSecureLog": "No",
+          "ns0:WorkInfoSubmitDate": "2015-05-05T21:45:19Z",
+          "ns0:UserName": "John Smith"
+        },
+        {
+          "ns0:WorkInfoInstanceID": "AGHAA5V0H2DEQAN5H1BLJ1HVMI71W3",
+          "ns0:WorkInfoStatus": "Enabled",
+          "ns0:WorkInfoType": "General Information",
+          "ns0:WorkInfoSummary": "Added Alejandro Gutierrez (E189520) to the Hon Corp",
+          "ns0:WorkInfoNotes": "Added Alejandro Gutierrez (E189520) to the Hon Corp - ITSM - GBL-GBL-SI COMMAND CENTER Queue",
+          "ns0:ParentID": "INC000008005267",
+          "ns0:WorkInfoSecureLog": "Yes",
+          "ns0:WorkInfoSubmitDate": "2014-11-17T20:46:33Z",
+          "ns0:WorkInfoAttachment1Data": "<data removed due to incorrectly format>",
+          "ns0:WorkInfoAttachment1OrigSize": "20480",
+          "ns0:UserName": "Marty Binder"
+        },
+        {
+          "ns0:WorkInfoInstanceID": "AGHAA5V0H28UPAN5HHX2QO44X2OTDY",
+          "ns0:WorkInfoStatus": "Enabled",
+          "ns0:WorkInfoType": "Customer Communication",
+          "ns0:WorkInfoSummary": "This ticket was created from the service request system.",
+          "ns0:WorkInfoNotes": "This ticket was created from the service request system.",
+          "ns0:ParentID": "INC000008005267",
+          "ns0:WorkInfoSecureLog": "No",
+          "ns0:WorkInfoSubmitDate": "2014-11-17T19:39:12Z",
+          "ns0:UserName": "Alex Smith"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="HelveticaNeueLights.ttc">
+            <string>HelveticaNeue-Light</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="InfoCollectionViewCell" customModule="FFISupportPortal" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="354" height="412"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="354" height="412"/>
+                <subviews>
+                    <imageView userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="login-image1" translatesAutoresizingMaskIntoConstraints="NO" id="KGw-uD-xhJ">
+                        <rect key="frame" x="0.0" y="0.0" width="354" height="412"/>
+                    </imageView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FFI Support Portal22" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="zzq-c0-z94">
+                        <rect key="frame" x="70" y="91" width="214" height="30"/>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="25"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Chat Support" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vHe-A9-4cl">
+                        <rect key="frame" x="104" y="330" width="146" height="30"/>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Light" family="Helvetica Neue" pointSize="25"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Request for immediate help anytime." lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="t80-dk-0W2">
+                        <rect key="frame" x="41" y="360" width="273" height="22"/>
+                        <fontDescription key="fontDescription" name="HelveticaNeue-Thin" family="Helvetica Neue" pointSize="18"/>
+                        <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="login-logo" translatesAutoresizingMaskIntoConstraints="NO" id="BbV-Du-yU1">
+                        <rect key="frame" x="131" y="50" width="93" height="29"/>
+                        <constraints>
+                            <constraint firstAttribute="height" constant="29" id="p6y-0u-muy" userLabel="Height - (≥29) - Image View"/>
+                        </constraints>
+                    </imageView>
+                </subviews>
+                <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            </view>
+            <constraints>
+                <constraint firstItem="zzq-c0-z94" firstAttribute="top" secondItem="BbV-Du-yU1" secondAttribute="bottom" constant="12" id="2VQ-W5-J1Z"/>
+                <constraint firstAttribute="centerX" secondItem="zzq-c0-z94" secondAttribute="centerX" id="7sK-4Q-QSC"/>
+                <constraint firstAttribute="centerX" secondItem="t80-dk-0W2" secondAttribute="centerX" id="APB-JB-Qav"/>
+                <constraint firstItem="KGw-uD-xhJ" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="DO8-pf-wRz"/>
+                <constraint firstAttribute="centerX" secondItem="BbV-Du-yU1" secondAttribute="centerX" id="EXr-Kt-0UP"/>
+                <constraint firstAttribute="trailing" secondItem="KGw-uD-xhJ" secondAttribute="trailing" id="Nm7-0v-RF9"/>
+                <constraint firstItem="t80-dk-0W2" firstAttribute="top" secondItem="vHe-A9-4cl" secondAttribute="bottom" id="PsP-yZ-Gil"/>
+                <constraint firstAttribute="bottom" secondItem="t80-dk-0W2" secondAttribute="bottom" constant="30" id="aHA-Cn-MKx"/>
+                <constraint firstItem="KGw-uD-xhJ" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="bDb-Rw-fuR"/>
+                <constraint firstItem="BbV-Du-yU1" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="50" id="cJx-dq-44W"/>
+                <constraint firstAttribute="bottom" secondItem="KGw-uD-xhJ" secondAttribute="bottom" id="gcl-Fo-0mg"/>
+                <constraint firstItem="BbV-Du-yU1" firstAttribute="width" secondItem="BbV-Du-yU1" secondAttribute="height" multiplier="93:29" id="u5K-zL-cIN"/>
+                <constraint firstAttribute="centerX" secondItem="vHe-A9-4cl" secondAttribute="centerX" id="wrB-rd-Sj6"/>
+            </constraints>
+            <size key="customSize" width="354" height="412"/>
+            <connections>
+                <outlet property="helpImage" destination="KGw-uD-xhJ" id="gcJ-cu-Nl7"/>
+                <outlet property="logoHeight" destination="p6y-0u-muy" id="g5O-Tr-MXb"/>
+                <outlet property="logoImage" destination="BbV-Du-yU1" id="B1F-H0-WM2"/>
+                <outlet property="logoTop" destination="cJx-dq-44W" id="hvU-We-TeZ"/>
+                <outlet property="mainLabel" destination="vHe-A9-4cl" id="4B5-Iq-uGZ"/>
+                <outlet property="subBottom" destination="aHA-Cn-MKx" id="DzY-TX-0wc"/>
+                <outlet property="subLabel" destination="t80-dk-0W2" id="Z2G-AH-TNp"/>
+                <outlet property="supportLabel" destination="zzq-c0-z94" id="Id2-Ar-VWi"/>
+            </connections>
+            <point key="canvasLocation" x="505" y="365"/>
+        </collectionViewCell>
+    </objects>
+    <resources>
+        <image name="login-image1" width="375" height="443"/>
+        <image name="login-logo" width="155" height="30"/>
+    </resources>
+</document>

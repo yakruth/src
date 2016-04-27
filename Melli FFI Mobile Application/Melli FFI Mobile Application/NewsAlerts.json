@@ -1,0 +1,18 @@
+ [
+  {
+  "ContentType": "News",
+  "Summary": "News1",
+  "Notes": "News1 Example Message",
+  "CreationDate": "2015-01-13",
+  "faultcode": null,
+  "faultstring": null
+  },
+  {
+  "ContentType": "News",
+  "Summary": "News7",
+  "Notes": "News7 Example Message",
+  "CreationDate": "2015-08-13",
+  "faultcode": null,
+  "faultstring": null
+  }
+  ]

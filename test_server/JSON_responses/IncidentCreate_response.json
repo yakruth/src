@@ -1,0 +1,6 @@
+{
+  "ns0:HelpDesk_Submit_ServiceResponse": {
+    "-xmlns:ns0": "urn:HPD_IncidentInterface_Create_WS",
+    "ns0:Incident_Number": "INC000008105678"
+  }
+}

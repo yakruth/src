@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>templateListQualificationValue</key>
+	<string>&apos;Status Template&apos; = &quot;Enabled&quot;</string>
+	<key>loginHelp</key>
+	<array>
+		<dict>
+			<key>main</key>
+			<string>helpText2</string>
+			<key>sub</key>
+			<string>helpSubtext2</string>
+			<key>image</key>
+			<string>login-image1</string>
+		</dict>
+		<dict>
+			<key>main</key>
+			<string>helpText3</string>
+			<key>sub</key>
+			<string>helpSubtext3</string>
+			<key>image</key>
+			<string>login-image1</string>
+		</dict>
+	</array>
+	<key>categories</key>
+	<array>
+		<array>
+			<string>ACS Applications</string>
+			<string>AERO SAP Production</string>
+			<string>AERO Non SAP Apps</string>
+			<string>AERO SAP Production</string>
+			<string>AERO SAP Warranty</string>
+			<string>Enterprise Apps</string>
+			<string>Infrastructure Apps</string>
+			<string>PMT Non ERP Apps</string>
+		</array>
+		<array>
+			<string>Topic Title goes here</string>
+			<string>AERO SAP Production Govt Biling-Reporting</string>
+			<string>Topic Title goes</string>
+			<string>AERO SAP Production Sub level</string>
+			<string>AERO SAP Warranty Sub level</string>
+			<string>Enterprise Apps Sub level</string>
+			<string>Infrastructure Apps Sub level</string>
+			<string>PMT Non ERP Apps Sub level</string>
+		</array>
+		<array>
+			<string>Performance Request</string>
+			<string>Problem/Service Request</string>
+		</array>
+	</array>
+	<key>requests</key>
+	<array/>
+	<key>userInfo</key>
+	<dict>
+		<key>username</key>
+		<string>user</string>
+		<key>password</key>
+		<string>topcoder</string>
+		<key>name</key>
+		<string>John Doe</string>
+		<key>email</key>
+		<string>john.doe@honeywell.com</string>
+	</dict>
+	<key>activities</key>
+	<array>
+		<dict>
+			<key>date</key>
+			<date>2015-05-17T02:50:20Z</date>
+			<key>name</key>
+			<string>Jane Smith</string>
+			<key>text</key>
+			<string>I&apos;m not able to reproduce it.</string>
+			<key>title</key>
+			<string>Support Engineer</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<date>2015-05-18T07:50:20Z</date>
+			<key>name</key>
+			<string>John Doe</string>
+			<key>text</key>
+			<string>Please, try again, you should be able to fix it.</string>
+			<key>title</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<date>2015-05-19T14:00:00Z</date>
+			<key>name</key>
+			<string>Jane Smith</string>
+			<key>text</key>
+			<string>Will fix it pretty soon. Thanks for understanding</string>
+			<key>title</key>
+			<string>Support Engineer</string>
+		</dict>
+		<dict>
+			<key>date</key>
+			<date>2015-05-28T07:50:20Z</date>
+			<key>name</key>
+			<string>John Doe</string>
+			<key>text</key>
+			<string>Thank you! I&apos;m waiting for the fix.</string>
+			<key>title</key>
+			<string></string>
+		</dict>
+	</array>
+	<key>emails</key>
+	<dict>
+		<key>India</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>$$FirstName$$ here is your Primary Support Desk</string>
+				<key>emails</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>IT Service Desk</string>
+						<key>text</key>
+						<string>Infrastructure and Applications</string>
+						<key>email</key>
+						<string>Honeywell-IT-SD@honeywell.com</string>
+						<key>subject</key>
+						<string>Help with techincal issue</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<key>phones</key>
+	<dict>
+		<key>India</key>
+		<array>
+			<dict>
+				<key>category</key>
+				<string>$$FirstName$$ here is your Primary Support Desk</string>
+				<key>phones</key>
+				<array>
+					<dict>
+						<key>name</key>
+						<string>IT Service Desk</string>
+						<key>text</key>
+						<string>Infrastructure and Applications</string>
+						<key>phone</key>
+						<string>(541) 754-3010</string>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+	<key>emailSupportMainText</key>
+	<string>IT Service Desk</string>
+	<key>emailSupportSubText</key>
+	<string>Infrastructure and Applications</string>
+	<key>emailSupportEmailSubject</key>
+	<string>Help with techincal issue</string>
+	<key>phoneSupportMainText</key>
+	<string>IT Service Desk</string>
+	<key>phoneSupportSubText</key>
+	<string>Infrastructure and Applications</string>
+	<key>genericTemplateInstanceId</key>
+	<string>AGHAA5V0H38QXAN4I5BE369MO6LO20</string>
+</dict>
+</plist>

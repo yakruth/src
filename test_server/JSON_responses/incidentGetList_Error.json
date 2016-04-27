@@ -1,0 +1,15 @@
+{
+  "soapenv:Fault": {
+    "-xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/",
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "faultcode": "soapenv:Server.userException",
+    "faultstring": "ARERR [623] Authentication failed",
+    "detail": {
+      "ns1:hostname": {
+        "-xmlns:ns1": "http://xml.apache.org/axis/",
+        "#text": "de08u1168.dceshared.honeywell.com"
+      }
+    }
+  }
+}

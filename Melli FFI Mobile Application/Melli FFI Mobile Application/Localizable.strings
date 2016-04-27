@@ -1,0 +1,183 @@
+/* 
+  Localizable.strings
+  Melli FFI Mobile Application
+
+  Created by mohamede1945 on 5/16/15.
+  Modified by Alexander Volkov on 06.06.15.
+  Modified by TCASSEMBLER on 16.08.15.
+  Copyright (c) 2015 Topcoder. All rights reserved.
+*/
+
+
+"helpText1"="Chat Support";
+"helpSubtext1"="Request for immediate help anytime.";
+"helpText2"="Email Support";
+"helpSubtext2"="Email us and we will get back to you.";
+"helpText3"="Phone Support";
+"helpSubtext3"="Why wait while you can call.";
+
+"nosimcard"="No SIM Card Installed";
+
+"portalName"="IT Support Portal";
+"portalLogIn"="Portal Log In";
+"loginButton"="LOG IN";
+"loginProblemsLabel"="Having problems logging in? Call support";
+"usernamePlaceholder"="Username";
+"passwordPlaceholder"="Password";
+
+"home"="Home";
+"dashboard"="Dashboard";
+"myRequests"="My Requests";
+"myAssets" = "My Assets";
+"newsAlerts"="News & Alerts";
+"faqs"="FAQ’s";
+"newRequest"="New Request";
+"newChat"="New Chat";
+"newEmail"="New Email";
+"newSchedule"="New Schedule";
+"newCall"="New Call";
+//"provideFeedback"="Provide Feedback";
+"provideFeedback"="Application Feedback";
+"itCustomerSentiment" = "IT Customer Sentiment"; //Added by Manjunath on 30/10/2015
+"subscriptions"="Manage Subscriptions";
+
+"back"="Back";
+"notImplementedFeature" = "This feature is currently being implemented.";
+"notifyMeButton" = "Yes, notify me";
+
+"selfService" = "Self-Service";
+"requestSupport" = "Request Support";
+
+"createRequestHome"="Create";
+"chatHome"="Chat";
+"emailHome"="Email";
+"scheduleHome"="Schedule";
+"callHome"="Call";
+"logout"="Logout";
+
+"reopen"="Reopen";
+"cancel"="Cancel";
+"edit" = "Edit";
+"done"="Done";
+
+"pending"="Pending";
+"inprogress"="In Progress";
+"in progress"="In Progress";
+"resolved"="Resolved";
+"closed"="Closed";
+"assigned"="Assigned";
+"unknown"="Unknown";
+"cancelled"="Cancelled";
+"new"="New";
+
+"4-Low"="4-Low";
+"3-Medium"="3-Medium";
+"2-High"="2-High";
+"1-Critical"="1-Critical";
+
+"ok"="OK";
+
+"requestDetails" = "Request Details";
+
+"requestAgain" = "Request Again";
+
+"notes"="Notes";
+"activity"="Activity";
+"createEntry"="Create Entry ...";
+"details" = "Details";
+"requestedfor" = "Requested For";
+"requestedby" = "Requested By";
+
+"save"="Save";
+"sendRequest"="Send Request";
+
+"editRequest"="Edit Request";
+"newRequest"="New Request";
+
+"summary"="Summary";
+"urgency"="Urgency";
+"selectUrgency"="Please select";
+"requestIncident"="If your incident requires immediate attention, please contact the Service Desk via telephone by clicking the “Call” icon on the Mobile App. Home page";
+
+"categorySelectionEmpty"="What can we help you with?";
+"categorySelectionSelected"="Template Selected";
+"categorySelectionAllResults"="All Results";
+
+
+"changeRequestStatusTitle"="";
+"changeRequestStatusBody"="Are you sure you want to change the status of this request?";
+"changeRequestStatusCancel"="Cancel";
+"changeRequestStatusConfirm"="Change";
+
+"changeRequestStatusCancelTitle"="";
+"changeRequestStatusCancelBody"="Are you sure you want to cancel this request?";
+"changeRequestStatusCancelCancel"="No, return to request";
+"changeRequestStatusCancelConfirm"="Yes, cancel request";
+
+"changeRequestStatusAssignedTitle"="";
+"changeRequestStatusAssignedBody"="Are you sure you want to reopen this request?";
+"changeRequestStatusAssignedCancel"="No, return to request";
+"changeRequestStatusAssignedConfirm"="Yes, reopen request";
+
+"cancelRequestNewTitle"="Cancel Request";
+"cancelRequestNewBody"="Are you sure you want to cancel this request?";
+"cancelRequestNewCancel"="Yes, cancel request";
+"cancelRequestNewConfirm"="No, return to request";
+
+"cancelRequestEditTitle"="Cancel Editing Request";
+"cancelRequestEditBody"="Are you sure you want to cancel editing this request?";
+"cancelRequestEditCancel"="Cancel editing request";
+"cancelRequestEditConfirm"="Stay";
+
+"requestSubmittedText"="Your request has been submitted";
+"requestSubmittedThanks"="Thank you for your submission, your request will be processed shortly";
+"requestSubmittedReviewDetail"="Review Detail";
+
+
+"loginError"="Login Error";
+"incorrectLogin"="Incorrect username and password";
+
+"validationError" = "Validation Error";
+"templateRequired"="Template is required";
+"urgencyRequired" ="Urgency is required";
+"summaryMoreThan100"="Summary shouldn't exceed 100 characters.";
+"notesMoreThan160"="Notes shouldn't exceed 160 characters.";
+"notesRequired" = "Notes Field Cannot be empty";
+
+"Error" = "Error";
+"Unknown_server_error" = "Unknown server error";
+"Unknown_error" = "Unknown error";
+"Support_Engineer" = "Support Engineer";
+"Loading" = "Loading...";
+
+
+"EmailSupport" = "Email Support";
+"PhoneSupport" = "Phone Support";
+
+"Error_NoAsset" = "No Assets Found";
+"Error_NoRequest" = "No Requests Found";
+"Error_NoNews" = "No News or Alerts Found";
+"Error_NoFAQ" = "No FAQ Results Found";
+"Error_NoFAQRecord" = "Sorry, FAQ Record Not Found";
+
+"Comments" = "Comments";
+"Nothing found" = "Nothing found";
+
+"FAQ_SEARCH_PLACEHOLDER"="Keyword Search";
+
+"Get Feedback"="Share your Experience";
+"APP_FEED_LOW_VALUE"="Disagree";
+"APP_FEED_HIGH_VALUE"="Agree";
+
+/* Added by H146574 */
+"attachimage" = "Please Attach the Image";
+"entertext" = "Please Enter Text";
+"submit" = "Submit";
+"empresults" = "Search Results";
+"employeesearch" = "Employee Search";
+
+"assetdetails" = "Asset Details";
+
+"emptyTextFields" = "Please provide at least one search criteria.";
+"noSearchResults" = "Your search did not return any results. Please try another search criteria.";
+"resultsMoreThanCount" = "Results exceeded maximum allowable. Please refine your search criteria.";

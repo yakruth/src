@@ -1,0 +1,182 @@
+
+/* Class = "UIButton"; normalTitle = "News & Alerts"; ObjectID = "0S4-Bt-DEB"; */
+"0S4-Bt-DEB.normalTitle" = "News & Alerts";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "4xi-6Q-Oqc"; */
+"4xi-6Q-Oqc.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6MZ-l3-YW9"; */
+"6MZ-l3-YW9.text" = "Label";
+
+/* Class = "UILabel"; text = "Meli-IT-SD@honeywell.com"; ObjectID = "6zs-SZ-LHq"; */
+"6zs-SZ-LHq.text" = "Meli-IT-SD@honeywell.com";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "8nD-wf-eii"; */
+"8nD-wf-eii.text" = "Label";
+
+/* Class = "UILabel"; text = "Mar 18, 2015 10:00 am"; ObjectID = "9S8-Ue-BEg"; */
+"9S8-Ue-BEg.text" = "Mar 18, 2015 10:00 am";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "9ic-lj-k3b"; */
+"9ic-lj-k3b.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label Label Label Label Label Label Label Label Label Label Label Label Label Label "; ObjectID = "BFN-a3-s6v"; */
+"BFN-a3-s6v.text" = "Label Label Label Label Label Label Label Label Label Label Label Label Label Label ";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BLv-zM-Yjq"; */
+"BLv-zM-Yjq.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "BgL-aF-0OG"; */
+"BgL-aF-0OG.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ELm-zy-tTL"; */
+"ELm-zy-tTL.text" = "Label";
+
+/* Class = "UILabel"; text = "Portal Log In"; ObjectID = "FQe-49-wFY"; */
+"FQe-49-wFY.text" = "Portal Log In";
+
+/* Class = "UIButton"; normalTitle = "Detail"; ObjectID = "FYf-Ek-nZa"; */
+"FYf-Ek-nZa.normalTitle" = "Detail";
+
+/* Class = "UILabel"; text = "Infrastructure and Applications"; ObjectID = "I5s-Qo-NmQ"; */
+"I5s-Qo-NmQ.text" = "Infrastructure and Applications";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "IG2-QT-jEO"; */
+"IG2-QT-jEO.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "IPI-bS-dI7"; */
+"IPI-bS-dI7.normalTitle" = "Submit";
+
+/* Class = "UILabel"; text = "Self-Service"; ObjectID = "JSh-oY-o4M"; */
+"JSh-oY-o4M.text" = "Self-Service";
+
+/* Class = "UILabel"; text = "Create"; ObjectID = "Pek-4P-slN"; */
+"Pek-4P-slN.text" = "Create";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "R9X-0b-n7X"; */
+"R9X-0b-n7X.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "V5Q-py-Nbk"; */
+"V5Q-py-Nbk.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Home"; ObjectID = "VNr-8J-xUv"; */
+"VNr-8J-xUv.normalTitle" = "Home";
+
+/* Class = "UILabel"; text = "Help us improve by providing feedback"; ObjectID = "XrW-OQ-tYz"; */
+"XrW-OQ-tYz.text" = "Help us improve by providing feedback";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "Xxb-NC-Y6g"; */
+"Xxb-NC-Y6g.normalTitle" = "Done";
+
+/* Class = "UIButton"; normalTitle = "LOG IN"; ObjectID = "Y3n-9X-RNn"; */
+"Y3n-9X-RNn.normalTitle" = "LOG IN";
+
+/* Class = "UILabel"; text = "Thank you for selecting an existing template. We will be process your request shortly. testing"; ObjectID = "Y9y-BO-9T6"; */
+"Y9y-BO-9T6.text" = "Thank you for selecting an existing template. We will be process your request shortly. testing";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "YFl-6a-i4R"; */
+"YFl-6a-i4R.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Edit"; ObjectID = "ZBH-Wf-jIi"; */
+"ZBH-Wf-jIi.normalTitle" = "Edit";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ZTm-mE-aoJ"; */
+"ZTm-mE-aoJ.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "IT Service Desk"; ObjectID = "aox-Iy-kfZ"; */
+"aox-Iy-kfZ.text" = "IT Service Desk";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "bmo-8e-bLx"; */
+"bmo-8e-bLx.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "FAQ’s"; ObjectID = "c8L-Te-EOe"; */
+"c8L-Te-EOe.normalTitle" = "FAQ’s";
+
+/* Class = "UILabel"; text = "Infrastructure and Applications"; ObjectID = "cjC-Qo-YHL"; */
+"cjC-Qo-YHL.text" = "Infrastructure and Applications";
+
+/* Class = "UITextField"; placeholder = "Username"; ObjectID = "ckN-GB-bsM"; */
+"ckN-GB-bsM.placeholder" = "Username";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "dwt-s4-gWu"; */
+"dwt-s4-gWu.normalTitle" = "Done";
+
+/* Class = "UILabel"; text = "Help us improve by providing feedback"; ObjectID = "dy5-La-diL"; */
+"dy5-La-diL.text" = "Thank you for sharing your experience";
+
+/* Class = "UILabel"; text = "General feedback"; ObjectID = "esh-Fn-BgM"; */
+"esh-Fn-BgM.text" = "General Feedback";
+
+/* Class = "UILabel"; text = "Call"; ObjectID = "fKT-UM-OCG"; */
+"fKT-UM-OCG.text" = "Call";
+
+/* Class = "UILabel"; text = "Request Support"; ObjectID = "fwB-Rf-dO5"; */
+"fwB-Rf-dO5.text" = "Request Support";
+
+/* Class = "UILabel"; text = "Meli-IT-SD@honeywell.com"; ObjectID = "gHZ-IS-bVV"; */
+"gHZ-IS-bVV.text" = "Meli-IT-SD@honeywell.com";
+
+/* Class = "UILabel"; text = "IT Service Desk"; ObjectID = "hLr-y5-0ly"; */
+"hLr-y5-0ly.text" = "IT Service Desk";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "hSz-Vj-Q1O"; */
+"hSz-Vj-Q1O.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "iSN-QL-tvw"; */
+"iSN-QL-tvw.normalTitle" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "ir4-6F-OiH"; */
+"ir4-6F-OiH.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "Your request
+has been Submitted"; ObjectID = "iuq-Gq-OPt"; */
+"iuq-Gq-OPt.text" = "Your request
+has been Submitted";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "jbc-D6-mtO"; */
+"jbc-D6-mtO.normalTitle" = "Submit";
+
+/* Class = "UIButton"; normalTitle = "My Requests"; ObjectID = "jtp-2C-ioe"; */
+"jtp-2C-ioe.normalTitle" = "My Requests";
+
+/* Class = "UILabel"; text = "Having problems logging in? Call support"; ObjectID = "kom-bn-4Vh"; */
+"kom-bn-4Vh.text" = "Having problems logging in? Call support";
+
+/* Class = "UILabel"; text = "Pending"; ObjectID = "lOF-5P-VJT"; */
+"lOF-5P-VJT.text" = "Pending";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "nru-fg-ZQw"; */
+"nru-fg-ZQw.text" = "6";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "o0Z-xF-MsF"; */
+"o0Z-xF-MsF.text" = "6";
+
+/* Class = "UILabel"; text = "Chat"; ObjectID = "qE6-6w-whK"; */
+"qE6-6w-whK.text" = "Chat";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "qbm-1C-jDj"; */
+"qbm-1C-jDj.text" = "Email";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "sHI-0Z-UHW"; */
+"sHI-0Z-UHW.text" = "Label";
+
+/* Class = "UILabel"; text = "INC00000861392 | Issue goes here omnis 12 test here what "; ObjectID = "sfy-Xj-hAz"; */
+"sfy-Xj-hAz.text" = "INC00000861392 | Issue goes here omnis 12 test here what ";
+
+/* Class = "UILabel"; text = "Schedule"; ObjectID = "snG-Nb-nDo"; */
+"snG-Nb-nDo.text" = "Schedule";
+
+/* Class = "UILabel"; text = "This feature is currently being implemented. Would you like a notification when it is available?"; ObjectID = "uHq-8y-Mr3"; */
+"uHq-8y-Mr3.text" = "This feature is currently being implemented. Would you like a notification when it is available?";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "vgL-LF-waT"; */
+"vgL-LF-waT.normalTitle" = "Cancel";
+
+/* Class = "UILabel"; text = "6"; ObjectID = "w3Q-Rw-z3b"; */
+"w3Q-Rw-z3b.text" = "6";
+
+/* Class = "UITextField"; placeholder = "Create entry"; ObjectID = "yfd-uo-eOA"; */
+"yfd-uo-eOA.placeholder" = "Create entry";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "zZU-Xd-TpV"; */
+"zZU-Xd-TpV.normalTitle" = "Cancel";

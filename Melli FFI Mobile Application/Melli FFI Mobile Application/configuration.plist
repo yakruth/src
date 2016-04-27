@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buildNumber</key>
+	<string></string>
+	<key>callSupportNumber</key>
+	<string>+14802708208</string>
+	<key>GoogleAnalyticsAppId</key>
+	<string>UA-12340078-143</string>
+	<key>OAuthBaseUrl</key>
+	<string>https://hmp.honeywell.com/hmpsecurity/services/v1/</string>
+	<key>OAuthClientId</key>
+	<string>7e6406a0-0b4d-11e5-926f-000c29165c58</string>
+	<key>OAuthClientSecret</key>
+	<string>remedy-89df23-fdhj34-98dsf-dshf3-sd234-key</string>
+	<key>OAuthDeviceId</key>
+	<string>123214</string>
+	<key>SHOW_ERROR_FOR_ENDPOINT</key>
+	<string></string>
+	<key>apiBaseUrl</key>
+	<string>https://RemedyAPI.honeywell.com/mobile/api/</string>
+	<key>ReportedSource</key>
+	<string>Mobile App</string>
+	<key>maxFeedbackLength</key>
+	<integer>1000</integer>
+	<key>feedbackProbability</key>
+	<integer>10</integer>
+	<key>loggingLevel</key>
+	<integer>0</integer>
+	<key>empSearchCount</key>
+	<integer>50</integer>
+</dict>
+</plist>

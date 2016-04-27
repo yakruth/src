@@ -1,0 +1,9 @@
+{
+    "soapenv:Fault": {
+        "-xmlns:soapenv": "http://schemas.xmlsoap.org/soap/envelope/",
+        "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "faultcode": "soapenv:Server.userException",
+        "faultstring": "Sample Error: Incorrect \"Summary\" field. Please fill all fields properly."
+    }
+}
